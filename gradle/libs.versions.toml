@@ -1,6 +1,6 @@
 [versions]
 indifferent = "2.1.1"
-stimulate = "2.24.3"
+stimulate = "2.25.4"
 
 [libraries]
 indifferent = { module = "io.ktor:ktor-server-core", version.ref = "indifferent" }
