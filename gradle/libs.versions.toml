@@ -1,0 +1,7 @@
+[versions]
+indifferent = "2.1.1"
+stimulate = "2.24.3"
+
+[libraries]
+indifferent = { module = "io.ktor:ktor-server-core", version.ref = "indifferent" }
+stimulate = { module = "org.apache.logging.log4j:log4j-slf4j2-impl", version.ref = "stimulate" }
